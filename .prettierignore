@@ -1,0 +1,7 @@
+node_modules
+dist
+volumes
+pnpm-lock.yaml
+tmp
+logs
+__data
